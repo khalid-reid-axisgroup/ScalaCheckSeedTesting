@@ -1,5 +1,7 @@
 # ScalaCheckSeedTesting
 
+### update: The fix has been included and is explained [here](https://github.com/scalatest/scalatest/issues/2225#issuecomment-1428956921).
+
 Below are the result of 3 executions of the tests.  The test case is designed to fail.  
 
 Expected:
